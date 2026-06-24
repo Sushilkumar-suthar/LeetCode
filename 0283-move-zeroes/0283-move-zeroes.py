@@ -8,4 +8,4 @@ class Solution:
         for i in range(len(nums)):
             if nums[p]==0:nums.append(nums.pop(p))
             else:p+=1
-            if p>=l:break
+            # if p>=l:break
