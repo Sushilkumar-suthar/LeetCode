@@ -9,6 +9,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0392-is-subsequence) |
@@ -39,9 +40,14 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
