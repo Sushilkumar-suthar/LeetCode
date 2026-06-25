@@ -17,6 +17,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -40,6 +41,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
