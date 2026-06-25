@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -57,4 +58,12 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
