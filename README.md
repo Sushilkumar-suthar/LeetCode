@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -66,4 +67,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
