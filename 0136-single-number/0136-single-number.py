@@ -1,5 +1,5 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        for i in nums:
-            if nums.count(i)==1:return i
-        return -1
+        xor = 0
+        for n in nums:xor = xor^n
+        return xor
