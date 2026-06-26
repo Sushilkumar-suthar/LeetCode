@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0392-is-subsequence) |
+| [1137-n-th-tribonacci-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0009-palindrome-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0136-single-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
