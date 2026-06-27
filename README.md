@@ -26,6 +26,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
@@ -38,6 +39,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -66,6 +68,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
