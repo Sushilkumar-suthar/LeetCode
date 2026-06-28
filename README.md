@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0136-single-number) |
+| [0461-hamming-distance](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0461-hamming-distance) |
 ## Memoization
 |  |
 | ------- |
