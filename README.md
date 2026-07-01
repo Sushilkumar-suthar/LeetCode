@@ -60,6 +60,7 @@
 | [0283-move-zeroes](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,4 +106,8 @@
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
