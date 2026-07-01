@@ -29,7 +29,10 @@ class Solution:
             right -= 1
 
         new_head.next = reverse_head
+        del reverse_head
         if reverse_tail != None:
             reverse_tail.next = head
+
+        del reverse_tail
 
         return start.next
