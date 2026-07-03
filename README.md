@@ -28,6 +28,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0344-reverse-string) |
@@ -50,6 +51,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0415-add-strings) |
 | [2390-removing-stars-from-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -83,6 +85,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0415-add-strings) |
