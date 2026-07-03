@@ -1,18 +1,25 @@
 class Solution:
     def addStrings(self, num1: str, num2: str) -> str:
-        i, j = len(num1) - 1, len(num2) - 1
+        l1 = len(num1)
+        l2 = len(num2)
         carry = 0
-        ans = []
+        ans = ""
 
-        while i >= 0 or j >= 0 or carry:
-            x = ord(num1[i]) - ord('0') if i >= 0 else 0
-            y = ord(num2[j]) - ord('0') if j >= 0 else 0
+        for i in range(max(l1, l2) - 1, -1, -1):
+            if l1 < l2:
+                idx1 = i - (l2 - l1)
+                n1 = ord(num1[idx1]) - ord('0') if idx1 >= 0 else 0
+                n2 = ord(num2[i]) - ord('0')
+            else:
+                idx2 = i - (l1 - l2)
+                n1 = ord(num1[i]) - ord('0')
+                n2 = ord(num2[idx2]) - ord('0') if idx2 >= 0 else 0
 
-            s = x + y + carry
-            ans.append(chr(s % 10 + ord('0')))
-            carry = s // 10
+            total = n1 + n2 + carry
+            ans = chr(total % 10 + ord('0')) + ans
+            carry = total // 10
 
-            i -= 1
-            j -= 1
+        if carry:
+            ans = chr(carry + ord('0')) + ans
 
-        return ''.join(reversed(ans))
+        return ans
