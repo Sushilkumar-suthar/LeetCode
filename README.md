@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -61,6 +62,7 @@
 | [0001-two-sum](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0283-move-zeroes) |
