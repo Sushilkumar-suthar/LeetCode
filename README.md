@@ -124,4 +124,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0724-find-pivot-index) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
