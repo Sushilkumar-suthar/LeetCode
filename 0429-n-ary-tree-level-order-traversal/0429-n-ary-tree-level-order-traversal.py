@@ -23,7 +23,6 @@ class Solution:
             for _ in range(len_q):
                 node = q.pop(0)
                 result[current_level].append(node.val)
-                print(node.val)
                 for child in node.children:
                     q.append(child)
 
