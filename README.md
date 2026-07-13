@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0415-add-strings) |
 | [2390-removing-stars-from-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -95,6 +96,7 @@
 | [0043-multiply-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0441-arranging-coins) |
@@ -176,4 +178,8 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
