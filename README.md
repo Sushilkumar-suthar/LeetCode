@@ -39,6 +39,7 @@
 | [0415-add-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0520-detect-capital) |
+| [1360-number-of-days-between-two-dates](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [2390-removing-stars-from-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
@@ -102,6 +103,7 @@
 | [0441-arranging-coins](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0441-arranging-coins) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1360-number-of-days-between-two-dates](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 ## Recursion
 |  |
 | ------- |
