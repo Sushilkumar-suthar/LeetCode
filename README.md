@@ -104,6 +104,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1360-number-of-days-between-two-dates](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -184,4 +185,5 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
