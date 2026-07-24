@@ -158,6 +158,7 @@
 | [0183-customers-who-never-order](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0627-swap-sex-of-employees](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0627-swap-sex-of-employees) |
+| [1211-queries-quality-and-percentage](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1211-queries-quality-and-percentage) |
 ## Tree
 |  |
 | ------- |
