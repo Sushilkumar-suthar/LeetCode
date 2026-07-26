@@ -8,7 +8,7 @@ public:
         
         double guess = x;
 
-        while (fabs(guess * guess - x) > 1e-6) {
+        while (fabs(guess * guess - x) > 1e-4) {
             guess = (guess + x / guess) / 2;
         }
         return std::floor(guess);
