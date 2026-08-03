@@ -87,6 +87,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0724-find-pivot-index) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [2032-two-out-of-three](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2032-two-out-of-three) |
@@ -136,6 +137,7 @@
 | [0069-sqrtx](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
