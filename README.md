@@ -31,6 +31,7 @@
 | [0268-missing-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0389-find-the-difference) |
 | [2032-two-out-of-three](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2032-two-out-of-three) |
+| [3731-find-missing-elements](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0268-missing-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0414-third-maximum-number) |
+| [3731-find-missing-elements](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [2032-two-out-of-three](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2032-two-out-of-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3731-find-missing-elements](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
