@@ -90,6 +90,7 @@
 | [0268-missing-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0704-binary-search) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -248,4 +250,8 @@
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
