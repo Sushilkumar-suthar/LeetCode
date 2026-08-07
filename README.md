@@ -49,6 +49,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0520-detect-capital) |
 | [1360-number-of-days-between-two-dates](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
+| [1859-sorting-the-sentence](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2390-removing-stars-from-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
@@ -57,6 +58,7 @@
 | [0268-missing-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0414-third-maximum-number) |
+| [1859-sorting-the-sentence](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [3731-find-missing-elements](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
@@ -254,4 +256,8 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
