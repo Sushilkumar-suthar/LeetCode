@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0242-valid-anagram) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0415-add-strings) |
@@ -123,6 +125,7 @@
 | [0009-palindrome-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0189-rotate-array) |
@@ -160,6 +163,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0191-number-of-1-bits) |
