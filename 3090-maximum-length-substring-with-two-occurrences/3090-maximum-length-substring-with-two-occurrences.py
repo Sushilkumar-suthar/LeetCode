@@ -1,15 +1,15 @@
 class Solution:
     def maximumLengthSubstring(self, s: str) -> int:
-            count = {}
+            count = [0] * 26
             left = 0
             ans = 0
 
             for right in range(len(s)):
-                char = s[right]
-                count[char] = count.get(char, 0) + 1
+                i = ord(s[right]) - ord('a')
+                count[i] += 1
 
-                while count[char] > 2:
-                    count[s[left]] -= 1
+                while count[i] > 2:
+                    count[ord(s[left]) - ord('a')] -= 1
                     left += 1
 
                 ans = max(ans, right - left + 1)
