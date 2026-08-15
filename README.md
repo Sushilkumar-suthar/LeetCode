@@ -33,6 +33,7 @@
 | [0268-missing-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0389-find-the-difference) |
 | [2032-two-out-of-three](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2032-two-out-of-three) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -52,6 +53,7 @@
 | [1360-number-of-days-between-two-dates](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1859-sorting-the-sentence](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2390-removing-stars-from-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
