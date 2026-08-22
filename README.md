@@ -152,6 +152,7 @@
 | [0441-arranging-coins](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0441-arranging-coins) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1486-xor-operation-in-an-array](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -189,6 +190,7 @@
 | [0461-hamming-distance](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0461-hamming-distance) |
 | [0832-flipping-an-image](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1009-complement-of-base-10-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2032-two-out-of-three](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2032-two-out-of-three) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
