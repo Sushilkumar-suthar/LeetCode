@@ -1,10 +1,15 @@
 class Solution:
     def sortByBits(self, arr: List[int]) -> List[int]:
-        def count_bits(x):
-            count = 0
-            while x:
-                x &= x - 1
-                count += 1
-            return count
+        buckets = [[] for _ in range(14)]
 
-        return sorted(arr, key=lambda x: (count_bits(x), x))
+        for x in arr:
+            bits = x.bit_count()
+            buckets[bits].append(x)
+
+        ans = []
+
+        for bucket in buckets:
+            bucket.sort()
+            ans.extend(bucket)
+
+        return ans
