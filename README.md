@@ -1,6 +1,7 @@
 # LeetCode
 <!---LeetCode Topics Start-->
 # LeetCode Topics
+
 ## Linked List
 |  |
 | ------- |
