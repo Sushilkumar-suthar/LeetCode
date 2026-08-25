@@ -40,6 +40,7 @@
 | [0389-find-the-difference](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0389-find-the-difference) |
 | [2032-two-out-of-three](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2032-two-out-of-three) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -121,6 +122,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2032-two-out-of-three](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2032-two-out-of-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
