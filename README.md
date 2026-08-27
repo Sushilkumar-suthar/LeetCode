@@ -38,6 +38,7 @@
 | [0242-valid-anagram](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0389-find-the-difference) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2032-two-out-of-three](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2032-two-out-of-three) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -118,6 +119,7 @@
 | [0704-binary-search](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0832-flipping-an-image) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2032-two-out-of-three](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2032-two-out-of-three) |
@@ -158,6 +160,7 @@
 | [0412-fizz-buzz](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0441-arranging-coins) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -278,6 +281,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0258-add-digits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Design
 |  |
@@ -314,6 +318,7 @@
 ## Counting
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Pigeonhole Principle
 |  |
@@ -323,4 +328,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
