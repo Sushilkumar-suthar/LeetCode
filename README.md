@@ -130,6 +130,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0392-is-subsequence) |
 | [1137-n-th-tribonacci-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
@@ -201,6 +202,7 @@
 | [0191-number-of-1-bits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0461-hamming-distance) |
 | [0832-flipping-an-image](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0832-flipping-an-image) |
