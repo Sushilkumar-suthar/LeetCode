@@ -119,6 +119,7 @@
 | [0704-binary-search](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0860-lemonade-change) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0860-lemonade-change](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0860-lemonade-change) |
 ## Sliding Window
 |  |
 | ------- |
