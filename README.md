@@ -140,6 +140,7 @@
 | [0011-container-with-most-water](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0860-lemonade-change](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0860-lemonade-change) |
+| [1323-maximum-69-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1323-maximum-69-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1323-maximum-69-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1486-xor-operation-in-an-array](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1486-xor-operation-in-an-array) |
