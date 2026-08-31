@@ -3,5 +3,5 @@ class Solution:
         if len(words)==0:return []
         l = []
         for i in words:
-            l.extend([j for j in i.split(separator) if len(j.strip())!=0])
+            l.extend([j for j in i.split(separator) if j.strip()!=""])
         return l
