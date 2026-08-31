@@ -63,6 +63,7 @@
 | [0520-detect-capital](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0520-detect-capital) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1360-number-of-days-between-two-dates](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
+| [1447-simplified-fractions](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1447-simplified-fractions) |
 | [1859-sorting-the-sentence](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2390-removing-stars-from-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2788-split-strings-by-separator](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2788-split-strings-by-separator) |
@@ -174,6 +175,7 @@
 | [1323-maximum-69-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
+| [1447-simplified-fractions](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1447-simplified-fractions) |
 | [1486-xor-operation-in-an-array](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -292,6 +294,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1447-simplified-fractions](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1447-simplified-fractions) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Design
 |  |
@@ -343,8 +346,10 @@
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1447-simplified-fractions](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1447-simplified-fractions) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1447-simplified-fractions](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
