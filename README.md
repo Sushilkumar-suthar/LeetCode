@@ -61,6 +61,7 @@
 | [0415-add-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0520-detect-capital) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1360-number-of-days-between-two-dates](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1859-sorting-the-sentence](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2390-removing-stars-from-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -140,6 +141,7 @@
 | [0011-container-with-most-water](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0860-lemonade-change](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0860-lemonade-change) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1323-maximum-69-number) |
 ## Sliding Window
 |  |
@@ -325,6 +327,7 @@
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Pigeonhole Principle
 |  |
