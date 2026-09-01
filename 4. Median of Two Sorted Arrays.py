@@ -10,4 +10,9 @@ class Solution:
                 nums2.pop(0)
         result+= list(nums1+nums2)
         l = len(result)
-        return result[int((l+1)/2)-1] if l%2!=0 else (result[int(l/2)-1]+result[int(l/2)])/2
+
+        if l%2!=0:
+            r = result[int((l+1)/2)-1]
+        else:
+            r = (result[int(l/2)-1]+result[int(l/2)])/2
+        return r
