@@ -9,6 +9,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
