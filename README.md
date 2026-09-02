@@ -40,6 +40,7 @@
 | [0268-missing-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0389-find-the-difference) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1512-number-of-good-pairs](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2032-two-out-of-three](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2032-two-out-of-three) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -127,6 +128,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1512-number-of-good-pairs](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2032-two-out-of-three](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2032-two-out-of-three) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2788-split-strings-by-separator](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2788-split-strings-by-separator) |
@@ -179,6 +181,7 @@
 | [1360-number-of-days-between-two-dates](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1447-simplified-fractions](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1447-simplified-fractions) |
 | [1486-xor-operation-in-an-array](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3280-convert-date-to-binary) |
@@ -337,6 +340,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1512-number-of-good-pairs](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Pigeonhole Principle
 |  |
 | ------- |
