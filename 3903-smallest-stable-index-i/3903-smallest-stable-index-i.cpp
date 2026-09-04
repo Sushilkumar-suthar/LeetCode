@@ -1,17 +1,27 @@
 class Solution {
 public:
     int firstStableIndex(vector<int>& nums, int k) {
-        int n = nums.size(), mx = nums[0];
-        vector<int> mn(n);
+        int n = nums.size();
         
-        mn[n - 1] = nums[n - 1];
-        for (int i = n - 2; i >= 0; i--)
-            mn[i] = min(nums[i], mn[i + 1]);
+        vector<int> suffixMin(n);
+        suffixMin[n - 1] = nums[n - 1];
 
-        for (int i = 0; i < n; i++) {
-            mx = max(mx, nums[i]);
-            if (mx - mn[i] <= k) return i;
+        for (int i = n - 2; i >= 0; --i) {
+            suffixMin[i] = min(nums[i], suffixMin[i + 1]);
         }
+
+        int prefixMax = nums[0];
+
+        for (int i = 0; i < n; ++i) {
+            prefixMax = max(prefixMax, nums[i]);
+
+            int instability = prefixMax - suffixMin[i];
+
+            if (instability <= k) {
+                return i;
+            }
+        }
+
         return -1;
     }
 };
