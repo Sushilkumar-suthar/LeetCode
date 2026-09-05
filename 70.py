@@ -1,6 +1,6 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        if n == 1 or n == 2:
+        if n in [1, 2]:
             return n
         ways_two_steps_before = 1
         ways_one_step_before = 2
