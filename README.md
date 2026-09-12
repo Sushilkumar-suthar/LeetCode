@@ -117,6 +117,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0189-rotate-array) |
@@ -171,6 +172,7 @@
 | [0009-palindrome-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0069-sqrtx) |
@@ -350,6 +352,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0832-flipping-an-image) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Counting
