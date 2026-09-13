@@ -136,6 +136,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2032-two-out-of-three](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2032-two-out-of-three) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2788-split-strings-by-separator](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2788-split-strings-by-separator) |
@@ -354,6 +355,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0832-flipping-an-image) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Counting
 |  |
