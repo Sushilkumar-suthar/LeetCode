@@ -117,6 +117,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0136-single-number) |
@@ -351,6 +352,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0046-permutations) |
 ## Matrix
 |  |
 | ------- |
