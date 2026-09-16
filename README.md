@@ -154,6 +154,7 @@
 | [0338-counting-bits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0392-is-subsequence) |
 | [1137-n-th-tribonacci-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Greedy
 |  |
 | ------- |
@@ -196,6 +197,7 @@
 | [1447-simplified-fractions](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1447-simplified-fractions) |
 | [1486-xor-operation-in-an-array](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3280-convert-date-to-binary) |
@@ -255,6 +257,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0724-find-pivot-index) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Database
 |  |
@@ -393,4 +396,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
