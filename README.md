@@ -45,6 +45,7 @@
 | [0389-find-the-difference](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0389-find-the-difference) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1512-number-of-good-pairs](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2032-two-out-of-three](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2032-two-out-of-three) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -144,6 +145,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2032-two-out-of-three](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2032-two-out-of-three) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -174,6 +176,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -231,6 +234,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0704-binary-search) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -267,6 +271,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0724-find-pivot-index) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Database
 |  |
