@@ -58,6 +58,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -127,6 +128,7 @@
 | [0046-permutations](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0189-rotate-array) |
@@ -305,6 +307,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0101-symmetric-tree) |
@@ -379,10 +382,12 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0079-word-search) |
 | [0832-flipping-an-image](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0832-flipping-an-image) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2319-check-if-matrix-is-x-matrix) |
