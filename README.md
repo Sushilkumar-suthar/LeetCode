@@ -71,6 +71,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0520-detect-capital) |
 | [0844-backspace-string-compare](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1360-number-of-days-between-two-dates](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1447-simplified-fractions](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1447-simplified-fractions) |
@@ -104,6 +105,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -446,4 +448,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
