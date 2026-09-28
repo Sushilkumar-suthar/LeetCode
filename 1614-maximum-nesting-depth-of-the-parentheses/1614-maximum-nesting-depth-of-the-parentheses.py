@@ -5,6 +5,5 @@ class Solution:
         for i in s:
             if i=="(":c+=1
             elif i==")":c-=1
-            if mx<c:
-                mx=c
+            if mx<c:mx=c
         return mx
