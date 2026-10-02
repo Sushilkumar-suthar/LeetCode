@@ -57,6 +57,7 @@
 | [0012-integer-to-roman](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0079-word-search) |
@@ -170,6 +171,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0392-is-subsequence) |
 | [1137-n-th-tribonacci-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -398,6 +400,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0079-word-search) |
 ## Matrix
@@ -460,6 +463,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Primality Test
