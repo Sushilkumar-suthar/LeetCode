@@ -1,7 +1,7 @@
 class Solution:
     def removeOuterParentheses(self, s: str) -> str:
         count = 0
-        news = ""
+        news = []
         sp = 0
         index= 0
         for i in s:
@@ -14,7 +14,7 @@ class Solution:
                 count-=1
 
             if count ==0:
-                news += s[sp:index-1]
+                news.append(s[sp:index-1])
                 sp=0
             
-        return news
+        return "".join(news)
