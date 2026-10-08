@@ -2,14 +2,13 @@ class Solution:
     def removeOuterParentheses(self, s: str) -> str:
         count = 0
         news = ""
-        sp=0
-        for i in range(len(s)):
-            if s[i] == "(":
+        for i in s:
+            if i == "(":
                 if count != 0:
-                    news+=s[i]
+                    news+=i
                 count +=1
-            elif s[i]==")":
+            elif i==")":
                 count -=1
                 if count != 0:
-                    news+=s[i]
+                    news+=i
         return news
