@@ -7,7 +7,7 @@ class Solution:
                 if count != 0:
                     news+=i
                 count +=1
-            elif i==")":
+            else:
                 count -=1
                 if count != 0:
                     news+=i
