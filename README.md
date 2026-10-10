@@ -227,6 +227,7 @@
 | [0412-fizz-buzz](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0441-arranging-coins) |
+| [0470-implement-rand10-using-rand7](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
 | [0836-rectangle-overlap](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -502,4 +503,16 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0204-count-primes) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
+## Randomized
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
