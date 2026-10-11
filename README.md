@@ -172,6 +172,7 @@
 | [2032-two-out-of-three](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2032-two-out-of-three) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2788-split-strings-by-separator](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -461,6 +462,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
