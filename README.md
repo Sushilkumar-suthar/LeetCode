@@ -144,6 +144,7 @@
 | [0011-container-with-most-water](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0066-plus-one) |
@@ -262,6 +263,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0287-find-the-duplicate-number) |
