@@ -1,10 +1,14 @@
 class Solution:
     def sumCounts(self, nums: List[int]) -> int:
-        sum = 0
+        total = 0
         n = len(nums)
 
         for i in range(n):
+            seen = set()
+
             for j in range(i, n):
-                unique = len(set(nums[i:j+1]))
-                sum += unique ** 2
-        return sum
+                seen.add(nums[j])
+                unique = len(seen)
+                total += unique * unique
+
+        return total
