@@ -48,6 +48,7 @@
 | [1512-number-of-good-pairs](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2032-two-out-of-three](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2032-two-out-of-three) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -176,6 +177,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2788-split-strings-by-separator](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2788-split-strings-by-separator) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -523,4 +525,12 @@
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
