@@ -67,6 +67,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0392-is-subsequence) |
@@ -339,6 +340,7 @@
 | [0112-path-sum](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -356,6 +358,7 @@
 | [0112-path-sum](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -388,6 +391,7 @@
 | [0112-path-sum](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -431,6 +435,7 @@
 | [0022-generate-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Matrix
 |  |
 | ------- |
