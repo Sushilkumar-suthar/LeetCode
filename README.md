@@ -93,6 +93,7 @@
 | [3280-convert-date-to-binary](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
 | ------- |
