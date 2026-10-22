@@ -60,6 +60,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0079-word-search) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -195,6 +197,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0338-counting-bits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -504,6 +507,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
