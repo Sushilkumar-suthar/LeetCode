@@ -77,6 +77,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0824-goat-latin](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
