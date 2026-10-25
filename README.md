@@ -171,6 +171,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0724-find-pivot-index) |
+| [0812-largest-triangle-area](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0860-lemonade-change) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -245,6 +246,7 @@
 | [0415-add-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0441-arranging-coins) |
 | [0470-implement-rand10-using-rand7](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
+| [0812-largest-triangle-area](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -491,6 +493,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
@@ -554,4 +557,8 @@
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1114-print-in-order) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
