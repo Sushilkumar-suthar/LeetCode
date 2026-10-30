@@ -2,9 +2,11 @@ class Solution:
     def calculateScore(self, a: int, b: int) -> int:
         def count_bits(n):
             count = 0
+
             while n > 0:
-                count += n % 2
-                n = n >> 1
+                n = n & (n - 1)
+                count += 1
+
             return count
 
         result_a = count_bits(a)
