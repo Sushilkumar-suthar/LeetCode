@@ -197,6 +197,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -271,6 +272,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Recursion
 |  |
 | ------- |
