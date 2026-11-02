@@ -53,6 +53,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -272,6 +273,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3945-digit-frequency-score](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3945-digit-frequency-score) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Recursion
 |  |
