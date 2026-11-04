@@ -4,11 +4,18 @@ public:
         long long ans = LLONG_MAX;
 
         for (int i = 0; i < nums.size(); i += 2) {
-            string merged = to_string(nums[i]) + to_string(nums[i + 1]);
+            long long a = nums[i];
+            long long b = nums[i + 1];
 
-            long long val = stoll(merged);
+            long long temp = b;
+            
+            while (temp > 0) {
+                a *= 10;
+                temp /= 10;
+            }
 
-            ans = min(ans, val);
+            long long merged = a + b;
+            ans = min(ans, merged);
         }
 
         return ans;
