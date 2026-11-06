@@ -201,6 +201,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Dynamic Programming
 |  |
@@ -278,6 +279,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3908-valid-digit-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3945-digit-frequency-score) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Recursion
 |  |
@@ -429,6 +431,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1447-simplified-fractions](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1447-simplified-fractions) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Design
 |  |
 | ------- |
@@ -504,6 +507,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3827-count-monobit-integers](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3827-count-monobit-integers) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Geometry
 |  |
 | ------- |
