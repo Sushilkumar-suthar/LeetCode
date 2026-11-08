@@ -181,6 +181,7 @@
 | [0860-lemonade-change](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0860-lemonade-change) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1267-count-servers-that-communicate](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -392,6 +393,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -407,6 +409,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -474,6 +477,7 @@
 | [0048-rotate-image](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0079-word-search) |
 | [0832-flipping-an-image](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0832-flipping-an-image) |
+| [1267-count-servers-that-communicate](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Counting
@@ -482,6 +486,7 @@
 | [0169-majority-element](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0169-majority-element) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1267-count-servers-that-communicate](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -582,4 +587,8 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0812-largest-triangle-area) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
