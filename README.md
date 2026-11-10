@@ -193,6 +193,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2643-row-with-maximum-ones](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2788-split-strings-by-separator](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -482,6 +483,7 @@
 | [1267-count-servers-that-communicate](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Counting
 |  |
 | ------- |
