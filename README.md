@@ -98,6 +98,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2788-split-strings-by-separator](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2788-split-strings-by-separator) |
+| [2810-faulty-keyboard](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2810-faulty-keyboard) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3174-clear-digits) |
 | [3280-convert-date-to-binary](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3280-convert-date-to-binary) |
@@ -152,6 +153,7 @@
 | [0832-flipping-an-image](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2810-faulty-keyboard](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
