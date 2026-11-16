@@ -94,6 +94,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1859-sorting-the-sentence](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1859-sorting-the-sentence) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2315-count-asterisks](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2315-count-asterisks) |
 | [2390-removing-stars-from-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2409-count-days-spent-together) |
@@ -153,6 +154,7 @@
 | [0415-add-strings](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0844-backspace-string-compare) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3174-clear-digits) |
