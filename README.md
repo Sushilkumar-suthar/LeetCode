@@ -213,6 +213,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -252,6 +253,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Math
 |  |
 | ------- |
@@ -291,6 +293,7 @@
 | [2409-count-days-spent-together](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3280-convert-date-to-binary) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -460,6 +463,7 @@
 | [0258-add-digits](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1447-simplified-fractions](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1447-simplified-fractions) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Design
@@ -538,6 +542,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3827-count-monobit-integers](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3827-count-monobit-integers) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
