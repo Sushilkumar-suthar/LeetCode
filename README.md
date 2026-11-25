@@ -377,6 +377,7 @@
 | [0182-duplicate-emails](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0196-delete-duplicate-emails) |
+| [0511-game-play-analysis-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0620-not-boring-movies](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1148-article-views-i) |
