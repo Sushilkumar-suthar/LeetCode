@@ -223,6 +223,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Dynamic Programming
@@ -236,6 +237,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -248,6 +250,7 @@
 | [1323-maximum-69-number](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1323-maximum-69-number) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sliding Window
 |  |
 | ------- |
