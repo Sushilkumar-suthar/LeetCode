@@ -385,6 +385,7 @@
 | [0511-game-play-analysis-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0620-not-boring-movies](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/0627-swap-sex-of-employees) |
+| [1068-product-sales-analysis-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Sushilkumar-suthar/LeetCode/tree/master/1211-queries-quality-and-percentage) |
 ## Tree
